@@ -1,4 +1,4 @@
-# 🚗 Driven by Data: Analyzing the Dynamics of Sports Car Pricing & Performance
+# 🚗 Machine Learning on Sports Car Spec & Prices
 
 ## 📌 Project Overview
 
